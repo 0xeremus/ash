@@ -1,0 +1,10 @@
+crw------- 1 root root    5,  3 Oct 25 06:03 /dev/ttyprintk
+crw-rw---- 1 root dialout 4, 64 Oct 25 06:03 /dev/ttyS0
+crw-rw---- 1 root dialout 4, 65 Oct 25 06:03 /dev/ttyS1
+crw-rw---- 1 root dialout 4, 66 Oct 25 06:03 /dev/ttyS2
+crw-rw---- 1 root dialout 4, 67 Oct 25 06:03 /dev/ttyS3
+crw-rw---- 1 root dialout 4, 68 Oct 25 06:03 /dev/ttyS4
+crw-rw---- 1 root dialout 4, 69 Oct 25 06:03 /dev/ttyS5
+crw-rw---- 1 root dialout 4, 70 Oct 25 06:03 /dev/ttyS6
+crw-rw---- 1 root dialout 4, 71 Oct 25 06:03 /dev/ttyS7
+crw-rw---- 1 root dialout 4, 72 Oct 25 06:03 /dev/ttyS8

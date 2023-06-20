@@ -1,0 +1,20 @@
+total 160
+-rwxrwxr-x 1 user user 27664 Oct 25 09:18 ashell
+-rw-rw-r-- 1 user user  5594 Oct 25 09:35 ashell.c
+-rw-rw-r-- 1 user user   305 Sep 28 11:37 ashell_const.h
+-rw-rw-r-- 1 user user  2365 Oct 25 09:35 ashell.h
+-rw-rw-r-- 1 user user  5320 Oct 25 09:18 ashell.o
+-rw-rw-r-- 1 user user  8985 Oct 24 14:26 ashell.png
+-rwxrwx--- 1 user user    49 Oct 25 12:45 junk
+-rw-rw-r-- 1 user user  1095 Sep 30 15:49 LICENSE
+-rw-rw-r-- 1 user user  4770 Oct 25 09:35 main.c
+-rw-rw-r-- 1 user user   459 Sep 27 17:29 makefile
+-rwxrwxr-x 1 user user 15337 Sep 30 17:06 parser.c
+-rwxrwxr-x 1 user user  4597 Oct 25 09:35 parser.h
+-rw-rw-r-- 1 user user 11904 Oct 25 09:18 parser.o
+-rw-rw-r-- 1 user user   261 Oct 24 14:26 README.md
+-rw-rw-r-- 1 user user 12953 Sep 30 17:06 test.c
+drwxr-xr-x 2 user user  4096 Oct 25 07:31 tests
+-rw-rw-r-- 1 user user  2567 Oct 25 09:35 utilities.c
+-rw-rw-r-- 1 user user  1666 Oct 25 09:35 utilities.h
+-rw-rw-r-- 1 user user  4592 Oct 25 09:18 utilities.o
